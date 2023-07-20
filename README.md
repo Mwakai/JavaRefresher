@@ -1,0 +1,2 @@
+# JavaRefresher
+JavaRefresher is a personal learning repository curated to refresh and deepen my Java programming skills. As an avid Java developer, I believe in the continuous pursuit of knowledge and improvement. This repository serves as a comprehensive collection of high-quality Java courses and resources from renowned platforms like Coursera, Hackerrank, Pluralsight, and amigoscode, tailored to reinvigorate my understanding of Java and keep me up-to-date with the latest advancements in the language.
