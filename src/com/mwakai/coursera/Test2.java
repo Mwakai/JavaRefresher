@@ -10,8 +10,8 @@ public class Test2 {
 }
 
 interface MyInterface {
-    public void method1();
-    public void method2();
+    void method1();
+    void method2();
 }
 
 class MyClass implements MyInterface {
